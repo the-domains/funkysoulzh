@@ -4,7 +4,7 @@
         <description><![CDATA[funkysoulzh]]></description>
         <link>https://thegrid.ai/funkysoulzh/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Dec 2015 16:41:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Dec 2015 16:42:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/funkysoulzh/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hallo Welt]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/funkysoulzh/sadasd/index.html</link>
             <guid isPermaLink="false">96b74079-21cd-41f8-84d6-68b5aa2b4d34</guid>
             <pubDate>Tue, 15 Dec 2015 16:41:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
+            <link>https://thegrid.ai/funkysoulzh/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">4b767b6f-f4be-4106-8ddf-c3b33bbf3494</guid>
+            <pubDate>Tue, 15 Dec 2015 16:42:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
