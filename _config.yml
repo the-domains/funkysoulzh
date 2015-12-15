@@ -1,7 +1,7 @@
 name: funkysoulzh
 favicon: null
-layout_spectrum: 0.4886831631883979
-typography_spectrum: 0.7279966881033033
+layout_spectrum: 1
+typography_spectrum: 0.2769
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#3E363F'
     - '#DD403A'
   brandStrength: 0.5434368755668402
-  lightness: 0.2356622633524239
-  saturation: 0.3071064397227019
+  lightness: 0.5
+  saturation: 0.0625
   rhythmicContrast: 0.6745650221128017
 purpose: []
