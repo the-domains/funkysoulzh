@@ -1,0 +1,28 @@
+name: funkysoulzh
+favicon: null
+layout_spectrum: 0.4886831631883979
+typography_spectrum: 0.7279966881033033
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5434368755668402
+  lightness: 0.2356622633524239
+  saturation: 0.3071064397227019
+  rhythmicContrast: 0.6745650221128017
+purpose: []
