@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[everything wordpress and tech related]]></title>
         <description><![CDATA[everything wordpress and tech related]]></description>
-        <link>https://thegrid.ai/funkysoulzh/</link>
+        <link>http://g.tiago.work/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 16:48:59 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/funkysoulzh/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Jan 2016 17:48:32 GMT</lastBuildDate>
+        <atom:link href="http://g.tiago.work/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Woocommerce Snippet on how to change the variation price so it only displays the lowest]]></title>
+            <description><![CDATA[<h1>Woocommerce Snippet on how to change the variation price so it only displays the lowest</h1>]]></description>
+            <link>https://gist.github.com/7215b1f5edc2207fd129</link>
+            <guid isPermaLink="false">c719cb34-f884-4a10-8ac0-23f89074d611</guid>
+            <pubDate>Wed, 27 Jan 2016 17:47:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[WooCommerce 2016 core wishlist]]></title>
-            <description><![CDATA[<article><h1>WooCommerce 2016 core wishlist</h1><p>With 2015 and 2.5 (almost) out of the way, we've started looking forward to 2016 and the next major release. WC 2.6 has already been partially roadmapped on Github and on our roadmap Trello board, but what we do after that is not yet certain I asked some of our WooCommerce devs what they wanted to see realised...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1e25fed20caf9d80d8f9426c0c80c8720fea1d9d.png"></article>]]></description>
+            <description><![CDATA[<article><h1>WooCommerce 2016 core wishlist</h1><p>With 2015 and 2.5 (almost) out of the way, we've started looking forward to 2016 and the next major release. WC 2.6 has already been partially roadmapped on Github and on our roadmap Trello board, but what we do after that is not yet certain I asked some of our WooCommerce devs what they wanted to see realised...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/349cd3ff31e10ed7434aa70cf2510f35524c122b.png"></article>]]></description>
             <link>https://woocommerce.wordpress.com/2016/01/07/woocommerce-2016-core-wishlist/#comment-927</link>
             <guid isPermaLink="false">48454f19-f155-4f27-b683-1688c8cf2b93</guid>
             <pubDate>Wed, 27 Jan 2016 16:48:54 GMT</pubDate>
@@ -16,14 +23,14 @@
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/51f561d4-94d0-4684-89e9-12399f3bda8d.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/funkysoulzh/63fbf078-bea2-4b41-8ae6-1e0f9ca19ea8/index.html</link>
+            <link>http://g.tiago.work/63fbf078-bea2-4b41-8ae6-1e0f9ca19ea8/index.html</link>
             <guid isPermaLink="false">63fbf078-bea2-4b41-8ae6-1e0f9ca19ea8</guid>
             <pubDate>Wed, 27 Jan 2016 13:35:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[WooCommerce - Remove Shipping Methods]]></title>
             <description><![CDATA[<article><h1>WooCommerce - Remove Shipping Methods</h1><p>So you probably landed on my site because you ripping your hair out since hours and you just need to ALL shipping methods when you enabled Free Shipping.</p></article>]]></description>
-            <link>https://thegrid.ai/funkysoulzh/woocommerce-remove-shipping-methods/index.html</link>
+            <link>http://g.tiago.work/woocommerce-remove-shipping-methods/index.html</link>
             <guid isPermaLink="false">55012c3b-d076-409e-915f-f3cd15ae222b</guid>
             <pubDate>Sat, 26 Dec 2015 17:26:05 GMT</pubDate>
         </item>
