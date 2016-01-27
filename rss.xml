@@ -4,7 +4,7 @@
         <description><![CDATA[everything wordpress and tech related]]></description>
         <link>http://g.tiago.work/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 17:53:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jan 2016 17:57:34 GMT</lastBuildDate>
         <atom:link href="http://g.tiago.work/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Woocommerce Snippet on how to change the variation price so it only displays the lowest]]></title>
@@ -22,17 +22,10 @@
         </item>
         <item>
             <title><![CDATA[hi, this is me]]></title>
-            <description><![CDATA[<article><h1>hi, this is me</h1><p>yeh this is me, and I'm going to post about a few things wordpress and web development related in the next few months. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9bddb3d6398f1568ffa381a5ec2e4547293ca08a.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>hi, this is me</h1><p>yeh this is me, and I'm going to post about a few things wordpress and web development related in the next few months. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aa31f97ac19f0bf1e87d7bdf1603a3f7dabf4b5b.jpg"></article>]]></description>
             <link>http://g.tiago.work/63fbf078-bea2-4b41-8ae6-1e0f9ca19ea8/index.html</link>
             <guid isPermaLink="false">63fbf078-bea2-4b41-8ae6-1e0f9ca19ea8</guid>
             <pubDate>Wed, 27 Jan 2016 17:53:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WooCommerce - Remove Shipping Methods]]></title>
-            <description><![CDATA[<article><h1>WooCommerce - Remove Shipping Methods</h1><p>So you probably landed on my site because you ripping your hair out since hours and you just need to ALL shipping methods when you enabled Free Shipping.</p></article>]]></description>
-            <link>http://g.tiago.work/woocommerce-remove-shipping-methods/index.html</link>
-            <guid isPermaLink="false">55012c3b-d076-409e-915f-f3cd15ae222b</guid>
-            <pubDate>Sat, 26 Dec 2015 17:26:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
