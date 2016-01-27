@@ -4,8 +4,15 @@
         <description><![CDATA[everything wordpress and tech related]]></description>
         <link>http://g.tiago.work/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 17:57:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jan 2016 17:58:19 GMT</lastBuildDate>
         <atom:link href="http://g.tiago.work/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Woocommerce Snippet on hiding all shipment methods when free shipping is available]]></title>
+            <description><![CDATA[<h1>Woocommerce Snippet on hiding all shipment methods when free shipping is available</h1>]]></description>
+            <link>https://gist.github.com/7756a007f861595af7ce</link>
+            <guid isPermaLink="false">d2774802-aadf-43b3-a2e1-f4db57a0a14e</guid>
+            <pubDate>Wed, 27 Jan 2016 17:57:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Woocommerce Snippet on how to change the variation price so it only displays the lowest]]></title>
             <description><![CDATA[<h1>Woocommerce Snippet on how to change the variation price so it only displays the lowest</h1>]]></description>
