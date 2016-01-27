@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[funkysoulzh]]></title>
-        <description><![CDATA[funkysoulzh]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[everything wordpress and tech related]]></title>
+        <description><![CDATA[everything wordpress and tech related]]></description>
+        <link>https://thegrid.ai/funkysoulzh/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Dec 2015 17:26:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Jan 2016 13:34:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/funkysoulzh/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>yeh this is me, and I'm going to post about a few things wordpress and web development related in the next few months. </p>]]></description>
+            <link>https://thegrid.ai/funkysoulzh/63fbf078-bea2-4b41-8ae6-1e0f9ca19ea8/index.html</link>
+            <guid isPermaLink="false">63fbf078-bea2-4b41-8ae6-1e0f9ca19ea8</guid>
+            <pubDate>Wed, 27 Jan 2016 13:34:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[WooCommerce - Remove Shipping Methods]]></title>
-            <description><![CDATA[<article><h1>WooCommerce - Remove Shipping Methods</h1><p>A short tutorial on how to remove shipping methods when free shipping is available</p></article>]]></description>
-            <link>undefinedwoocommerce-remove-shipping-methods/index.html</link>
+            <description><![CDATA[<article><h1>WooCommerce - Remove Shipping Methods</h1><p>So you probably landed on my site because you ripping your hair out since hours and you just need to ALL shipping methods when you enabled Free Shipping.</p></article>]]></description>
+            <link>https://thegrid.ai/funkysoulzh/woocommerce-remove-shipping-methods/index.html</link>
             <guid isPermaLink="false">55012c3b-d076-409e-915f-f3cd15ae222b</guid>
             <pubDate>Sat, 26 Dec 2015 17:26:05 GMT</pubDate>
         </item>
