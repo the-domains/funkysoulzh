@@ -1,7 +1,7 @@
 name: funkysoulzh
 favicon: null
-layout_spectrum: 0.96676
-typography_spectrum: 0.2769
+layout_spectrum: 0
+typography_spectrum: 0.4927
 title: everything wordpress and tech related
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.5434368755668402
+  brandStrength: 0.25
   lightness: 0.25
-  saturation: 0.625
+  saturation: 0.4375
   rhythmicContrast: 0.75
 purpose: []
