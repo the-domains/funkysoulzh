@@ -4,14 +4,18 @@
         <description><![CDATA[everything wordpress and tech related]]></description>
         <link>http://g.tiago.work/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 18:48:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jan 2016 18:50:18 GMT</lastBuildDate>
         <atom:link href="http://g.tiago.work/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f39ffdba-532b-4991-b411-f88b9a55bf34.jpg">]]></description>
+            <title><![CDATA[lipsum]]></title>
+            <description><![CDATA[<article><h1>lipsum</h1><p>  Your bones don't break, mine do. That's clear. Your cells react to bacteria and viruses differently than mine. You don't get sick, I do. That's also clear. But for some reason, you and I react the exact same way to water. We swallow it too fast, we choke. We get some in our lungs, we drown. However unreal it may seem, we are connected, you and I. We're on the same curve, just on opposite ends.
+
+
+
+lorem ipsum</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8d1803129374b1efa43a2d57bf9ced27ed9e580f.jpg"></article>]]></description>
             <link>http://g.tiago.work/cea4c416-04d8-4425-997a-2cb6fccdcf62/index.html</link>
             <guid isPermaLink="false">cea4c416-04d8-4425-997a-2cb6fccdcf62</guid>
-            <pubDate>Wed, 27 Jan 2016 18:46:53 GMT</pubDate>
+            <pubDate>Wed, 27 Jan 2016 18:48:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Woocommerce Snippet on hiding all shipment methods when free shipping is available]]></title>
