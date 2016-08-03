@@ -1,20 +1,4 @@
-name: funkysoulzh
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.4927
-title: everything wordpress and tech related
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-59790057-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#95c7f8'
@@ -26,4 +10,20 @@ color:
   lightness: 0.25
   saturation: 0.4375
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: UA-59790057-1
+  facebook: null
+  twitter: null
+name: funkysoulzh
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: everything wordpress and tech related
 purpose: []
